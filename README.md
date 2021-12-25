@@ -24,3 +24,4 @@
 
 ##                                                                                                                                               
                                                                                                                                                  
+ ![Snake animation](https://github.com/brunnorech/brunnorech/blob/output/github-contribution-grid-snake.svg)
