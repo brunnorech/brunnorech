@@ -1,8 +1,8 @@
 
 ## Olá! Eu sou o Bruno Rech
 
-- 🔭 Hoje trabalho com front-end (React)
-- 🌱 Estudando Typescript
+- 🔭 Hoje trabalho com front-end (React & Typescript)
+- 🌱 Estudando Nodejs
 
 <br>
 <div align="center">
