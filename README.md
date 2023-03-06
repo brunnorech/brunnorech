@@ -4,6 +4,13 @@
 - 🔭 Hoje trabalho com front-end (React & Typescript)
 - 🌱 Estudando Nodejs
  <br>
+  <div>
+  <a href="https://github.com/brunnorech">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnorech&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnorech&layout=compact&langs_count=6&theme=react"/> 
+  </a>
+</div>
+<br>
  <div style="display: inline_block><br>
   <img align="center" alt="Rech-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rech-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
