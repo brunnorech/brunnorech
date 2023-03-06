@@ -3,14 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end (React & Typescript)
 - 🌱 Estudando Nodejs
-
-<br>
-<div align="center">
-  <a href="https://github.com/brunnorech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=brunnorech&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnorech&layout=compact&langs_count=7&theme=radical&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
-</div>
-  <br>
+ <br>
  <div style="display: inline_block><br>
   <img align="center" alt="Rech-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rech-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
