@@ -1,8 +1,8 @@
 
 ## Hi! I'am Bruno Rech
 
-- 🔭 Hoje trabalho com front-end (React & Typescript)
-- 🌱 Estudando Nodejs
+🔭 Now I work with Next.js & Node.js
+🌱 Studying AWS
   <div>
   <a href="https://github.com/brunnorech">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnorech&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
