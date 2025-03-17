@@ -12,7 +12,7 @@
 
    ##### What is my top languages?
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgabriel&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunnorech&theme=react)
 
   </a>
 </div>
