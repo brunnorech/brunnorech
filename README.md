@@ -1,13 +1,19 @@
 
-## Olá! Eu sou o Bruno Rech
+## Hi! I'am Bruno Rech
 
 - 🔭 Hoje trabalho com front-end (React & Typescript)
 - 🌱 Estudando Nodejs
  <br>
   <div>
   <a href="https://github.com/brunnorech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnorech&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnorech&layout=compact&langs_count=6&theme=react"/> 
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnorech&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
+   
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnorech&layout=compact&langs_count=6&theme=react"/> -->
+
+   ##### What is my top languages?
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgabriel&theme=radical)
+
   </a>
 </div>
 <br>
